@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CertificacionApiWallet</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lista_de_usuarios">Lista de Usuarios</string>
+    <string name="informaci_n_del_usuario">Información del Usuario</string>
+    <string name="avatar">avatar</string>
+    <string name="usuario_guardado">Usuario guardado</string>
+    <string name="info_fecha">Info Fecha</string>
+    <string name="valor">Valor</string>
+    <string name="pais">pais</string>
+</resources>
